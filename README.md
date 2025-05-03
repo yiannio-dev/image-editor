@@ -1,0 +1,1 @@
+this is an image editor, you can click add image after opening it to add an image and then select from the options shown to make changes to the image, this will create an edited folder in the images folder
